@@ -10,7 +10,7 @@
 
 Peel automatically answers all those questions + more.
 
-With a single click - Peel pulls in data from Shopify, Google Ads, and Facebook ads to automate the reporting of over 80 plus metrics (82 to be exact) so you never have to use a spreadsheet again to analyze the stats on your business.
+With a single click - Peel pulls in data from Shopify, Google Ads, and Facebook ads to automate the reporting of over 100+ metrics so you never have to use a spreadsheet again to analyze the stats on your business.
 
 # COHORTS
 Peel's powerful cohort analysis allows you to study data across acquisition, activation, retention, and referral metrics. Customer retention, average lifetime value, total lifetime value, and repurchase rate cohort data give insight into your customer's continual engagement with your brand so you can make decisions to rectify problem areas or opportunities and improve customer loyalty.
